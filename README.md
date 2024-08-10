@@ -1,6 +1,8 @@
 Aplikasi pemesanan wisata bernama Travel One, dibuat untuk menyelesaikan tugas akhir pelatihan Junior Web Developer (JWD) tahun 2024.
 Nama Peserta: Ichwan Riskhi 
 
+Preview Tampilan Aplikasi: https://ichwanriskhi.github.io/travelone/
+
 Tata Cara Pemasangan Aplikasi Travel One:
 1. Unduh Kode
 2. Ekstrak file ZIP yang telah diunduh ke direktori yang diinginkan.
