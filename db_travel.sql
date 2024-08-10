@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 10, 2024 at 03:08 AM
+-- Generation Time: Aug 10, 2024 at 05:07 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -120,8 +120,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_id`, `nama_lengkap`, `email`, `password`, `telephone`, `gender`, `profile_picture`, `role`) VALUES
-(3, 'Muhammad Faza Ibrahim', 'muhammadfaza23@gmail.com', 'faza123456', '086787654323', 'pria', '956-gallery-1.jpg', 'admin'),
-(4, 'Fuji Kaze', 'fujikaze45@gmail.com', 'fuji1234', '', '', '853-gallery-2.jpg', 'user'),
+(3, 'Ichwan Riskhi', 'ichwanriskhi345@gmail.com', 'ichwan123', '085823649560', 'pria', '956-gallery-1.jpg', 'admin'),
+(4, 'Fuji Kaze Hanami', 'fujikaze45@gmail.com', 'fuji12345', '087654567890', 'pria', '853-gallery-2.jpg', 'user'),
 (5, 'Andrean Putra Pratama', 'andreanputra29@gmail.com', 'putrapratama123', NULL, NULL, '431-dio-hasibuan-9ZNhQZFivZc-unsplash.jpg', 'user'),
 (6, 'Ahmad Sofyan', 'ahmadsofyan6@gmail.com', 'ahmad1234', NULL, NULL, '', 'user'),
 (7, 'ochann', 'ochann@gmail.com', 'Ochan123', '08123456789', 'pria', '651-gallery-1.jpg', 'user');
