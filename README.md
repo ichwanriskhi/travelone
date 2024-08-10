@@ -11,6 +11,6 @@ Tata Cara Pemasangan Aplikasi Travel One:
    - Buka phpMyAdmin melalui browser.
    - Buat database baru dengan nama yang sesuai (db_travel).
    - Impor file SQL yang disertakan dalam folder aplikasi (db_travel.sql) ke dalam database yang baru dibuat.
-4.Jalankan Aplikasi
+4. Jalankan Aplikasi
   - Buka browser dan akses aplikasi melalui URL http://localhost/travelone (sesuaikan dengan nama folder tempat Anda mengekstrak file ZIP).
   - Aplikasi siap digunakan.
